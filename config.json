@@ -1,0 +1,38 @@
+{
+    "token": "NDU2NjAxMTkwNjcxODQzMzI4.XNhIIA.nTxchChP1sHuM8zlqMSdzNlWyjM",
+    "prefix": "-",
+    "giphyapitoken": "",
+
+    "commands": {
+        "game": ["g", "game"],
+        "status": ["s", "status"],
+        "embed": ["e", "embed"],
+        "faq": ["faq"],
+        "gif": ["gif"],
+        "clear": ["c", "clear"],
+        "announce": ["anc", "announce"],
+        "colors": ["cl", "colors"]
+    },
+    "FAQS": [
+        {
+            "invoke": "invite",
+            "content": "[Unavailable]()",
+            "title": "DuckyBot - Get It"
+        },
+        {
+            "invoke": "suport",
+            "content": "[Support Guideline]()",
+            "title": "Support Guidelines"
+        },
+        {
+            "invoke": "info",
+            "content": "This bot has been created by Ducky, it involvs with the commands, \n-clear, -faq, -embed, -gif, -status and -game. \n\nIf you would like this selfbot, please contact Ducky#6326 \n\n[User Bot Rules](https://www.google.co.uk/search?q=Not+available+yet+lmao&oq=Not+available+yet+lmao&aqs=chrome..69i57j0l5.4861j0j7&sourceid=chrome&ie=UTF-8)",
+            "title": "Userbot Info"
+        },
+        {
+            "invoke": "faq",
+            "content": "[FAQ](https://gist.github.com/zekroTJA/75d2da53b01a4c76db27ef6befbfabf6)",
+            "title": "FAQ"
+        }
+    ]
+}
